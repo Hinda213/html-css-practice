@@ -1,0 +1,16 @@
+div {
+    border: solid rgba(75, 103, 75, 0.4) 10px;
+    margin: 30px;
+    padding: 20px 10px 30px 40px ;
+    outline: outset 10px rgb(78, 214, 78);
+    outline-offset: 20px; /* this creates space between the border and the outline*/
+display:inline-block;
+background-color: aquamarine;
+position: ;
+}
+body { background-color: black;}
+div:hover {
+    color: green;
+    background-color: black;
+}
+

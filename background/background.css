@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-qjnZzi6-RRHKkUZcluyqPfPY7nVYQqBjg&s), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgPEuSjYukMlsLp23D-f9rPpyw2HFXiA7zQ&s);
+    /* background-repeat:no-repeat;
+    background-size: cover; */
+    color: yellow;
+    border: 2px solid black;
+    padding: 25px;
+    background-repeat: repeat-x, no-repeat;
+    background-size: contain, cover;
+    
+}
