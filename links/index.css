@@ -1,0 +1,39 @@
+a {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+ display: block;
+
+}
+h1, p {
+    color: white;
+    border: 5px solid blueviolet;
+    background-color: rgb(224, 142, 224);
+    margin: 2px;
+    border-radius: 50px;
+    display:
+ 
+    font-size: 20px;
+}
+p {
+    padding: 10px;
+}
+a:hover,  a:active {
+    background-color: white;
+    color: red;
+    text-decoration: underline;
+}
+
+div {
+    border: dashed 4px black;
+    outline: solid 3px green;
+    outline-offset: 10px;
+    margin: 20px;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 30px;
+}
