@@ -77,7 +77,7 @@ div {
 }
 .submit {
     color: white;
-    background-color: black;
+    background-color: red;
     padding: 10px;
     font-weight: bold;
     border-radius: 10px;
@@ -85,7 +85,7 @@ div {
     
 }
 .submit:hover {
-    color:pink;
-    background-color: blanchedalmond;
+    color:red;
+    background-color: white;
 
 }
